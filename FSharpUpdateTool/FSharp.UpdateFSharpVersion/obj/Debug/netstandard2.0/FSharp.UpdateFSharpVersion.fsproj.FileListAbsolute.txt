@@ -1,0 +1,15 @@
+/Users/daniel/code/FSharpUpdateTool/FSharp.UpdateFSharpVersion/bin/Debug/netstandard2.0/FSharp.UpdateFSharpVersion.deps.json
+/Users/daniel/code/FSharpUpdateTool/FSharp.UpdateFSharpVersion/bin/Debug/netstandard2.0/FSharp.UpdateFSharpVersion.dll
+/Users/daniel/code/FSharpUpdateTool/FSharp.UpdateFSharpVersion/bin/Debug/netstandard2.0/FSharp.UpdateFSharpVersion.pdb
+/Users/daniel/code/FSharpUpdateTool/FSharp.UpdateFSharpVersion/obj/Debug/netstandard2.0/FSharp.UpdateFSharpVersion.dll
+/Users/daniel/code/FSharpUpdateTool/FSharp.UpdateFSharpVersion/obj/Debug/netstandard2.0/FSharp.UpdateFSharpVersion.pdb
+C:\FSharpUpdateTool\FSharp.UpdateFSharpVersion\bin\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.deps.json
+C:\FSharpUpdateTool\FSharp.UpdateFSharpVersion\bin\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.dll
+C:\FSharpUpdateTool\FSharp.UpdateFSharpVersion\bin\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.pdb
+C:\FSharpUpdateTool\FSharp.UpdateFSharpVersion\obj\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.dll
+C:\FSharpUpdateTool\FSharp.UpdateFSharpVersion\obj\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.pdb
+C:\dev\FSharpUpdateTool\FSharp.UpdateFSharpVersion\bin\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.deps.json
+C:\dev\FSharpUpdateTool\FSharp.UpdateFSharpVersion\bin\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.dll
+C:\dev\FSharpUpdateTool\FSharp.UpdateFSharpVersion\bin\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.pdb
+C:\dev\FSharpUpdateTool\FSharp.UpdateFSharpVersion\obj\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.dll
+C:\dev\FSharpUpdateTool\FSharp.UpdateFSharpVersion\obj\Debug\netstandard2.0\FSharp.UpdateFSharpVersion.pdb
